@@ -1,0 +1,116 @@
+* {margin: 0; padding: 0;}
+
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+
+@font-face {
+	font-family: "Updock";
+	src: url("fonts/Updock/Updock-Regular.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+#main {
+    height: 60px;
+    
+}
+
+.logo-img {
+    float: left;
+    padding-left: 12px;
+    text-align: left; 
+    width: 15%;
+}
+
+#main-menu{
+    list-style: none;
+    text-align: right;
+    margin-top: 10px;
+    
+}
+
+.main-menu-item{
+    display: inline-block;
+    margin-top: 10px;
+    padding:  10px;
+    font-size: 35px;
+    font-family: 'Square Peg', cursive;
+    
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+#main-logo{
+    margin-left: 450px;
+    margin-top: 200px;
+}
+
+.block{
+    color: white;
+    margin-top: 60px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+    margin-left: 60px    
+} 
+
+
+.text-main {
+    display: block;
+    margin-left: 450px;
+    font-size: 30px; 
+    font-family: "Updock";
+    
+}
+
+#main-logo-tr{
+    margin-left: 450px;
+    margin-top: 200px;
+}
+
+#blok{
+    background-color: black;
+    margin-top: 50px;
+    height: 300px;
+    text-align: center;
+}
+
+.blok-text{
+    color: white;
+    font-size: 100px;
+    padding-top: 80px;
+}
+
+.logo-trb1{
+    margin-left: 350px;
+    margin-top: 200px;
+}
+
+.text-mainp1 {
+    display: block;
+    margin-left: 450px;
+    font-size: 20px;  
+    padding-top: 40px;
+}
+
+.logo-trb2{
+    margin-left: 350px;
+    margin-top: 200px;
+    width: 65%;
+}
+
+.logo-trb3{
+    margin-left: 350px;
+    margin-top: 200px;
+    width: 65%;
+}
+
+.short{
+    margin-left: 550px;
+    margin-top: 200px;
+}
+
+.fotorama{
+    margin-left: 475px;
+}

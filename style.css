@@ -1,0 +1,83 @@
+* {margin: 0; padding: 0}
+
+@font-face {
+    font-family: "Updock";
+    src: url("fonts/Updock/Updock-Regular.ttf");
+    font-style: normal;
+    font-weight:normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+
+.logo{
+    width: 15%;
+    float: left;
+}
+
+#main {
+    height: 60px;
+}
+
+.main-menu{
+    text-align: right;
+}
+
+.main-menu-item{
+    display: inline-block;
+    padding: 10px;
+    font-size: 45px;
+    font-family: "Updock";
+ 
+}
+
+.logo2{
+    margin-left: 150px;
+    margin-top: 200px;
+}
+
+.block{
+    color: white;
+    margin-top: 60px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+    margin-left: 60px;
+        
+}
+
+.text1 {
+    display: block;
+    font-size: 20px;
+    margin-left: 450px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.logo1{
+    margin-left: 450px;
+    margin-top: 200px;
+}
+
+#black {
+    background-color: black;
+    margin-top: 50px;
+    height: 300px;
+    text-align: center;
+}
+
+.black-text {
+    color: white;
+    font-size: 100px;
+    padding-top: 80px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.short{
+    margin-left: 550px;
+}
+
+.fotorama{
+    margin-left: 450px;
+}
